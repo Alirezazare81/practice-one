@@ -1,0 +1,6 @@
+D:\5-Projects\visual studio\practice one\practice one\bin\Debug\practice one.exe.config
+D:\5-Projects\visual studio\practice one\practice one\bin\Debug\practice one.exe
+D:\5-Projects\visual studio\practice one\practice one\bin\Debug\practice one.pdb
+D:\5-Projects\visual studio\practice one\practice one\obj\Debug\practice one.csprojResolveAssemblyReference.cache
+D:\5-Projects\visual studio\practice one\practice one\obj\Debug\practice one.exe
+D:\5-Projects\visual studio\practice one\practice one\obj\Debug\practice one.pdb
